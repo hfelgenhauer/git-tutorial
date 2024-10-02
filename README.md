@@ -1,2 +1,3 @@
 Git Tutorial
-Henry Felgenhauer
+Henry 
+UChicago Student Resource Guide
